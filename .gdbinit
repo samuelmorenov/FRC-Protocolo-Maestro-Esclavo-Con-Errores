@@ -1,0 +1,1 @@
+set new_console ON
